@@ -9,4 +9,7 @@ I'm Thomas, Backend developer from <img src="https://cdn-icons-png.flaticon.com/
 
 ---
 
-![Metrics](/github-metrics.svg)
+![](/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](/profile-summary-card-output/github_dark/3-stats.svg)
+![](/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](/profile-summary-card-output/github_dark/2-most-commit-language.svg)
